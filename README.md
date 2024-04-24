@@ -14,7 +14,7 @@ The app allows users to browse available escape rooms, make bookings,it features
 
 ## Technologies Used
 
-- **Backend**: Spring Boot
+- **Backend**: Spring Boot(Java)
 - **Frontend**: React
 - **Database**: MySQL
 
