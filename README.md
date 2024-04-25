@@ -1,6 +1,6 @@
 # escape-room
 This repository contains a full-stack Java project for an Escape Room Booking App developed with Spring Boot and React.
-![Escape Room Screenshot](https://raw.githubusercontent.com/chameleon505/escape-room/blob/main/client/room-service/esc1.png?token=GHSAT0AAAAAACQIKBB6HS5QSXYLXDGOLIFKZQF7GGA)
+![Escape Room Image](https://github.com/chameleon505/escape-room/blob/main/client/room-service/esc1.png?raw=true)
 
 
 ## Overview
