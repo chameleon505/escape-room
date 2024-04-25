@@ -19,9 +19,18 @@ The app allows users to browse available escape rooms, make bookings,it features
 - **Database**: MySQL
 
 
-## Usage
+## Install
 1. **Clone the repository:**
    git clone https://github.com/chameleon505/escape-room.git
-2. Navigate to the server directory: cd escape-room/server
-Install backend dependencies:
-mvn install
+2. **Navigate to the server directory:**
+   cd escape-room/server
+3. **Install backend dependencies:**
+   mvn install
+4. **Navigate to the frontend directory**
+5. **Install frontend dependencies:**
+   npm install
+
+## Running the Application
+- **Server**:mvn spring-boot:run
+- **Client**:npm start
+
