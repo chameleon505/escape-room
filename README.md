@@ -31,6 +31,8 @@ The app allows users to browse available escape rooms, make bookings,it features
    npm install
 
 ## Running the Application
-- **Server**:mvn spring-boot:run
-- **Client**:npm start
+- **Server**:
+  mvn spring-boot:run
+- **Client**:
+  npm start
 
