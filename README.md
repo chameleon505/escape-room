@@ -22,4 +22,6 @@ The app allows users to browse available escape rooms, make bookings,it features
 ## Usage
 1. **Clone the repository:**
    git clone https://github.com/chameleon505/escape-room.git
-
+2. Navigate to the server directory: cd escape-room/server
+Install backend dependencies:
+mvn install
